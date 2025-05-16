@@ -42,7 +42,7 @@ Estudié durante 5 años en el **Colegio de Lenguas Extranjeras**, donde obtuve 
 ## 🚀 Actualmente estoy...
 - Consolidando mis conocimientos en arquitectura de software y backend escalable
 - Aplicando principios SOLID y patrones de diseño en proyectos reales
-- Explorando nuevas herramientas del ecosistema JavaScript/TypeScript
+- Explorando nuevas herramientas del ecosistema TypeScript
 - Buscando oportunidades para aprender y colaborar en proyectos desafiantes
 
 ## 📫 Contacto
