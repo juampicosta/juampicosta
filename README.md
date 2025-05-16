@@ -13,12 +13,12 @@ Estudié durante 5 años en el **Colegio de Lenguas Extranjeras**, donde obtuve 
 
 ## 💼 Experiencia profesional
 
-🛠️ Trabajé como desarrollador **Fullstack** durante 10 meses en **Aguasbe**, donde desarrollé un sistema integral para:
+🛠️ Trabajé como desarrollador **Fullstack** (React y Express.js) durante 10 meses en **Aguasbe**, donde desarrollé un sistema integral para:
 
 - Gestión de stock y pagos
 - Administración de saldos y repartidores
 - Seguimiento en tiempo real mediante geolocalización
-- Integración frontend-backend con bases de datos relacionales y no relacionales
+- Integración frontend-backend con bases de datos relacionales
 
 ## 🧠 Habilidades técnicas
 
